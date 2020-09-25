@@ -46,7 +46,7 @@ Abrir a pasta *ExecJogo* e executar o arquivo *ProjetoJogos*.
 ---
 
 ## 🦸‍♂️ Arte
-Em especial, um agradecimento ao meu amigo <a href="https://www.instagram.com/fehrampazo/" target="_blank">Felipe Rampazo</a> que me forneceu a sprite do Arthur, assim como as animações dele parado, andando, pulando e atacando com o graveto (essas duas últimas eu não coloquei no jogo). Confiram o <a href="https://www.instagram.com/fehrampazo/" target="_blank"> portfólio </a> dele!!!
+Em especial, um agradecimento ao meu amigo <a href="https://www.instagram.com/fehrampazo/" target="_blank">Felipe Rampazo</a> que me forneceu a sprite do Arthur, assim como as animações dele parado, andando, pulando e atacando com o graveto (essas duas últimas eu não coloquei no jogo). Confiram o <a href="https://www.behance.net/felipe_a_r3061" target="_blank"> portfólio </a> dele!!!
 
 ---
 
